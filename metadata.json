@@ -1,0 +1,6 @@
+{
+  "name": "Диктофон",
+  "description": "Минималистичный диктофон с автоматической транскрибацией записей в текст с использованием ИИ Gemini и возможностью экспорта.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
